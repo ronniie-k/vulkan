@@ -1,0 +1,4 @@
+res/models/other_models
+x64/
+*.vcxproj
+*.vcxproj.*
